@@ -1,0 +1,16 @@
+Markdown
+
+how to make a comment 
+Normal text and new line
+horizontal rule
+headings
+paragraph
+italic
+bold
+Strikethrough 
+inline code block 
+multiple line code blocklist 
+link 
+image 
+emoji
+table
